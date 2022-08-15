@@ -4,6 +4,6 @@
 
 int main(void)
 {
-printf("hello_wor!d\n");
+printf("hello_wd\n");
 }
-return 0;
+return 0; 
